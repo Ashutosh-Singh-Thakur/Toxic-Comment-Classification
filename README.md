@@ -32,7 +32,7 @@ The dataset used for training and evaluation is available on Kaggle: [Toxic Comm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/toxic-comment-classification.git
+   git clone git@github.com:Ashutosh-Singh-Thakur/Toxic-Comment-Classification.git
    cd toxic-comment-classification
 
 1. View the Jupyter Notebook on Google Colab:
