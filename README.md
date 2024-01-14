@@ -1,6 +1,6 @@
 # Toxic Comment Classification
 
-This repository contains the code and resources for a Toxic Comment Classification model. The model is designed to classify text comments into various toxicity categories. It was developed for the Jigsaw/Conversation AI Toxic Comment Classifier competition on Kaggle.
+This repository contains the code and resources for a Toxic Comment Classification model. The model is designed to classify text comments into various toxicity categories.
 
 ## Table of Contents
 
