@@ -28,36 +28,34 @@ The dataset used for training and evaluation is available on Kaggle: [Toxic Comm
 
 ## Usage
 
-
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone git@github.com:Ashutosh-Singh-Thakur/Toxic-Comment-Classification.git
    cd toxic-comment-classification
+   ```
 
-1. View the Jupyter Notebook on Google Colab:
+2. **Choose one of the following options to view and run the Jupyter Notebook:**
 
-    Click the following link to view and run the notebook on Google Colab:
-   
-    <a href="https://colab.research.google.com/github/Ashutosh-Singh-Thakur/Toxic-Comment-Classification/blob/main/notebooks/toxic_comment_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-    This will open the notebook in Google Colab, where you can run the cells and interact with the code.
-
-
-1. Install Jupyter Notebook dependencies:
-
-   ```bash
-   pip install notebook
-
-1. Run Jupyter Notebook:
-
+   - **View Locally:**
+     - Install Jupyter Notebook dependencies:
+       ```bash
+       pip install notebook
+       ```
+     - Run Jupyter Notebook:
+       ```bash
        jupyter notebook notebooks/toxic_comment_classification.ipynb
+       ```
+     - Open the notebook and run the cells to see the model in action.
 
-    Open the notebook and run the cells to see the model in action.
-
+   - **View on Google Colab:**
+     - Click the following link to view and run the notebook on Google Colab:
+       
+       <a href="https://colab.research.google.com/github/Ashutosh-Singh-Thakur/Toxic-Comment-Classification/blob/main/notebooks/toxic_comment_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+           
+     - This will open the notebook in Google Colab, where you can run the cells and interact with the code.
 
 ## Dependencies
-
 
 - Python 3.11
 - Jupyter Notebook 7.0.2
@@ -67,7 +65,6 @@ The dataset used for training and evaluation is available on Kaggle: [Toxic Comm
 - numpy 1.23.5
 - matplotlib 3.7.0
 - pickle 1.3.0
-
 
 ## License
 
